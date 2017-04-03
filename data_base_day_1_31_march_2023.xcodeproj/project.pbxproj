@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D31817D71E922AC100EC5E10 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31817D61E922AC100EC5E10 /* ViewController2.swift */; };
 		D332247129D6B8D400AB34E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D332247029D6B8D400AB34E5 /* AppDelegate.swift */; };
 		D332247329D6B8D400AB34E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D332247229D6B8D400AB34E5 /* SceneDelegate.swift */; };
 		D332247529D6B8D400AB34E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D332247429D6B8D400AB34E5 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D31817D61E922AC100EC5E10 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		D332246D29D6B8D400AB34E5 /* data_base_day_1_31_march_2023.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = data_base_day_1_31_march_2023.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D332247029D6B8D400AB34E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D332247229D6B8D400AB34E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				D332247429D6B8D400AB34E5 /* ViewController.swift */,
 				D332248429D6B8FE00AB34E5 /* File.swift */,
 				D332247629D6B8D400AB34E5 /* Main.storyboard */,
+				D31817D61E922AC100EC5E10 /* ViewController2.swift */,
 				D332247929D6B8D500AB34E5 /* Assets.xcassets */,
 				D332247B29D6B8D500AB34E5 /* LaunchScreen.storyboard */,
 				D332247E29D6B8D500AB34E5 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D31817D71E922AC100EC5E10 /* ViewController2.swift in Sources */,
 				D332247529D6B8D400AB34E5 /* ViewController.swift in Sources */,
 				D332248529D6B8FE00AB34E5 /* File.swift in Sources */,
 				D332247129D6B8D400AB34E5 /* AppDelegate.swift in Sources */,
